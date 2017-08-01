@@ -8,3 +8,14 @@ body,html{
 	margin: 0 auto;
 	background-color: #0b6783;
 }
+
+.image_box{
+	width: 360px;
+	height: 640px;
+	margin: 20px auto;
+}
+
+.image_box img{
+	width: 100%;
+	height: 100%;
+}
